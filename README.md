@@ -1,4 +1,4 @@
-- 👋 Pathomphob Sunanta
+- 👋 Call me Bun!
 - 👨‍💻 Frontend Developer
 - 📬 pathomphob.sun@gmail.com
 - 🚀 https://pathomphob-sunanta.vercel.app/
