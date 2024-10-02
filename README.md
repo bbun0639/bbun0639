@@ -1,4 +1,7 @@
-## Hi there 👋
+- 👋 Pathomphob Sunanta
+- 👨‍💻 Frontend Developer
+- 📬 pathomphob.sun@gmail.com
+- 🚀 https://pathomphob-sunanta.vercel.app/
 
 <!--
 **bbun0639/bbun0639** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
